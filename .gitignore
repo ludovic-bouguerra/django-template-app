@@ -1,0 +1,6 @@
+docs/api_docs/*
+docs/build/*
+*.pyc
+db.sqlite3
+src/conf/local_settings.py
+

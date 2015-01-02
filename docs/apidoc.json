@@ -1,0 +1,11 @@
+{
+  "name": "api-doc",
+  "version": "1",
+  "description": "Sample API doc",
+  "title": "Sample API doc",
+  "url" : "https://www.myapp.com",
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
